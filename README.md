@@ -15,7 +15,7 @@ Introducing Dr. Leaf, a plant disease detection model seamlessly integrated into
 <img src = "demo_images/7.png"> <br>
 <img src = "demo_images/8.png"> <br>
 #### Supplements/Fertilizer
-<img src = "demo_images/4.JPG"> <br>
+<img src = "demo_images/4.png"> <br>
 #### Contact Us 
 <img src = "demo_images/5.png"> <br><br>
 #### Contact Us 
